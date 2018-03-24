@@ -1,7 +1,7 @@
 var data={ "notes": [
   {
     "title": "Carrying the Fire",
-    "author": 'Michael Collins',
+    "author": 'Michael Collins', 
     "quote": "Man has always gone where he has been able to go. It&rsquo;s that simple. He will continue pushing back his frontier, no matter how far it may carry him from his homeland."
   },
   {
